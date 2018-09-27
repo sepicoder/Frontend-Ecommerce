@@ -1,0 +1,73 @@
+.navbar {
+    margin-bottom: 50px;
+    border-radius: 0;
+  }
+  
+.jumbotron {
+    margin-bottom: 0;
+    background-color: white;
+    height: 20;
+}
+ 
+footer {
+    background-color: white;
+    padding: 25px;
+}
+
+.panel-primary .panel-heading {
+    background-color:rgb(108, 106, 189);
+    border-color:rgb(108, 106, 189);
+    font-size: 16px;
+}
+
+.panel-footer {
+    font-weight: bold;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+.panel-footer:hover{
+    background-color: black;
+    color: white;
+}
+
+.panel.panel-primary {
+    border-color: black;
+    border-width: medium;
+    text-align: center;
+}
+
+.panel-primary {
+border-color: black;
+}
+
+.btn {
+    background-color: rgb(108, 106, 189);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+}
+
+.button {
+    padding-left: 29%;
+    position: inherit;
+}
+
+.btn:hover #colorOption{
+    color:black;
+}
+.btn #colorOption{
+    color: black;
+}
